@@ -1,0 +1,21 @@
+﻿// ***************************************************************************
+// *
+// * Copyright (C) 2011 International Business Machines
+// * Corporation and others.  All Rights Reserved.
+// * Tool: com.ibm.icu.dev.tool.cldr.LDML2ICUConverter.java
+// * Source File:<path>/common/main/es.xml
+// *
+// ***************************************************************************
+/**
+ *  ICU <specials> source: <path>/xml/main/es.xml
+ */
+es {
+	hello {"hola"}
+	welcome {"Bienvenido"}
+	location {"Ubicación"}
+	about {"Información"}
+	contact {"Contacto"}
+	weather_message {"El clima en tu ubicación es: {0,number,integer} {1}."}
+	Language {"Idioma"}
+	score {"Resultados"}
+}

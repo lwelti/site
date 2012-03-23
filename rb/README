@@ -1,0 +1,7 @@
+To generate the rb run:
+assuming <output_directory> is locale then you will run:
+
+sudo genrb locale es.txt es_mx.txt en.txt root.txt
+
+this will generate under locale/
+
