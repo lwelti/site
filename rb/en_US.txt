@@ -9,7 +9,7 @@
 /**
  *  ICU <specials> source: <path>/xml/main/es.xml
  */
-en {
+en_US {
 	hello {"hello"}
 	welcome {"Welcome"}
 	location {"Location"}
